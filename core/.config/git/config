@@ -3,8 +3,8 @@
 [core]
     editor = nvim
 [user]
-	name = Melker Widén
-	email = melker.widen@gmail.com
+	name = Love Andersson 
+	email = love.h.andersson@gmail.com 
 [pull]
     rebase = true
 [push]
