@@ -24,6 +24,10 @@ vim.opt.listchars:append({
 })
 vim.opt.list = false
 
+vim.schedule(function()
+    vim.opt.clipboard = 'unnamedplus'
+end)
+
 vim.opt.smartindent = true
 
 vim.opt.wrap = false
