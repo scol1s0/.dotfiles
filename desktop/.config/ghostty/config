@@ -11,5 +11,5 @@ bell-features = no-system
 
 custom-shader = ~/.config/ghostty/shaders/blaze-trail.glsl
 
-theme = "Rose Pine"
+theme = "Monokai Pro"
 
