@@ -9,7 +9,6 @@ window-padding-y = 4
 confirm-close-surface = false
 bell-features = no-system
 
-custom-shader = ~/.config/ghostty/shaders/blaze-trail.glsl
 
 theme = "Monokai Pro"
 
