@@ -7,7 +7,8 @@ return {
         require("monokai").setup({
             --{ palette = require('monokai').pro }
             --{ palette = require('monokai').soda }
-            --{ palette = require('monokai').ristretto           -- optional config
+            --{ palette = require('monokai').ristretto }          -- optional config
+            palette = require('monokai').classic
         })
         vim.cmd.colorscheme("monokai")
     end,
