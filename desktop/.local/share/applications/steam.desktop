@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Steam
-Exec=/usr/sbin/steam -forcedesktopscaling 1.25
-Terminal=false
-Type=Application
-

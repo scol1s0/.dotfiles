@@ -1,0 +1,14 @@
+[init]
+    defaultBranch = main
+[core]
+    editor = nvim
+[user]
+    name = Love Andersson 
+    email = love.h.andersson@gmail.com 
+[pull]
+    rebase = true
+[push]
+    autoSetupRemote = true
+[rebase]
+    autoStash = true
+
